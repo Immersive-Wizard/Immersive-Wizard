@@ -9,7 +9,7 @@ Unser Ziel ist es, eine verwunschene magische Welt zu schaffen, in der ihr aus d
 Werdet zum mächtigsten magischen Wesen und erlernt die stärksten aller Zauberkünste! <br>
 
 Schaut gerne mal auf unserer Website vorbei und erfahrt die ersten Details zu dem Spiel! <br>
-👀 [Immersive-Wizard](www.immersive-wizard.com "www.immersive-wizard.com")
+👀 [Immersive-Wizard](https://www.immersive-wizard.com "www.immersive-wizard.com")
 <!--
 💖 Support the Project
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
